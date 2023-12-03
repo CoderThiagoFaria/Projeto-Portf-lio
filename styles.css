@@ -1,0 +1,218 @@
+/* COMEÇO DA PAGINA INDEX */
+/* RESETANDO MARGIN E PADDING */
+html, body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+    font-family:'Signika Negative', sans-serif;
+}
+
+/* CORES DA PAGINA HOME */
+body{
+    background-color: #001233;
+}
+
+.navigation{
+    background-color: #001845;
+    color: white;
+}
+
+.capa{
+    color: white;
+}
+
+.capa span{
+    color: Orange;
+}
+
+
+/* PROPIEDADES DA BARRA DE NAVEGAÇÃO */
+
+.navigation{
+    height: 50px;
+}
+
+.navigation ul{
+    margin-top: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    height: 50px;
+}
+
+.navigation li{
+    font-size: 16px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 50px;
+}
+
+.capa div{
+    display: inline-block;
+    height: 650px;
+}
+
+.capa span{
+    display: block;
+}
+
+.profile-pic{
+    width: 40%;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.profile-pic img{
+    margin-left: 500px;
+    width: 380px;
+    border-radius: 350px;
+}
+
+.profile-title{
+    margin-left: 200px;
+    margin-top: 300px;
+    vertical-align: top;
+    width: 40%;    
+}
+
+.profile-title h1{
+    font-size: 58px; 
+}
+
+.profile-title h2{
+    font-size: 20px;   
+}
+
+
+/* FIM DA PAGINA INDEX */
+
+
+/* INICIO PAGINA CONTATO */
+/* CORES E FONTES DA PAGINA CONTATO */
+
+
+.home-contato{
+   color: gray;
+}
+
+.contato{
+    color: white;
+}
+
+.titulo{
+    color: orange;
+}
+
+.dados{
+    margin-left: 10px;
+    color: white;
+}
+
+/* PROPIEDADES DA PAGINA CONTATO */
+
+.container{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.home-contato{
+    height: 50px;
+}
+
+.home-contato ul{
+    margin-top: 0;
+    list-style: none;
+    padding-left: 0;
+    height: 50px;
+}
+
+.home-contato li{
+    font-size: 16px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+/* FIM DA PAGINA CONTATO */
+
+/* INICIO DA PAGINA CURRICULO */
+
+.container1{
+    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+
+.target{
+    text-align: center;
+    font-size: 23px;
+    color: white;
+}
+
+.dados-pessoais h3{
+    font-size: 20px;
+    color: orange;
+}
+
+.dados-pessoais p{
+    margin-left: 10px;
+    color: #d3dbd4;
+}
+
+.sobremim p{
+    margin-left: 17px;
+    color: #d3dbd4;
+}
+
+.educacao h3{
+    font-size: 20px;
+    color: orange;
+}
+
+.educacao a{
+    color: #d3dbd4;
+    margin-left: 10px;
+}
+
+.habilidades h3{
+    font-size: 20px;
+    color: orange;
+}
+
+.habilidades p{
+    margin-left: 10px;
+    color: #d3dbd4;
+}
+
+.experiencia h3{
+    font-size: 20px;
+    color: orange;
+}
+
+.experiencia a{
+    color: #d3dbd4;
+    margin-left: 10px;
+}
+
+.trab-voluntario h3{
+    color: orange;
+    font-size: 20px;
+}
+
+.trab-voluntario a{
+    color: #d3dbd4;
+    margin-left: 10px;
+}
+
+.meu-contato h2{
+    color: orange;
+    font-size: 20px;
+}
+
+.meu-contato a{
+    color: #d3dbd4;
+    margin-left: 10px;
+}
