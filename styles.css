@@ -278,3 +278,19 @@ body{
     text-transform: none;
     font-weight: 100;
 }
+
+/* Projeto 1 */
+/* A Dama com o arminho */
+
+.title-projeto1{
+    font-size: 25px;
+    color: orange;
+}
+
+.body-projeto1 hr{
+    margin-right: 100px;
+}
+.body-projeto1 p{
+    margin-right: 100px;
+    color: white;
+}
